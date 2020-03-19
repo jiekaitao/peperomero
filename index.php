@@ -16,3 +16,5 @@
 	echo '</div>'; // onepagepro-outer-content-wrap
 
 	get_footer(); 
+
+	?>
